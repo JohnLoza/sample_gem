@@ -1,5 +1,7 @@
 require "bundler/setup"
 require "erick_loza"
+require "erick_loza/matrix"
+require "erick_loza/edit_distance"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
