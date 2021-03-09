@@ -1,5 +1,3 @@
-require 'erick_loza/matrix'
-
 module ErickLoza
   class EditDistance
     def initialize(source, target)
